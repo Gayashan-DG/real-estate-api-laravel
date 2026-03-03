@@ -59,7 +59,7 @@ A production-ready RESTful API for managing property listings with authenticatio
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Gayashan-DG/real-estate-api-laravel
 cd property-api
 ```
 
